@@ -15,23 +15,28 @@ const questions = [
 
   {
     type: "input",
-    message: "Where are you from?",
-    name: "place",
+    message: "What is the nature of the project?",
+    name: "description",
   },
   {
     type: "input",
-    message: "what is your favorite hobby?",
-    name: "hobby",
+    message: "What applications need to be installed?",
+    name: "installations instructions",
   },
   {
     type: "input",
-    message: "What is your LinkedIn URL?",
-    name: "linkedinurl",
+    message: "How will this be used?",
+    name: "usage information",
   },
   {
     type: "input",
-    message: "What is your GitHub URL?",
-    name: "githuburl",
+    message: "What are the guidelines for contributing?",
+    name: "contribution guidelines",
+  },
+  {
+    type: "input",
+    message: "What are the instruction for testing?",
+    name: "testing instructions",
   },
 ];
 
