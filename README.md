@@ -1,9 +1,9 @@
-# fdf
-![Apace](https://img.shields.io/badge/license-Apace-blue.svg)
+# Marty's README
+![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
 
-DAFASD
+generating a README
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ DAFASD
 
 ## Installation
 
-FDSFD
+
 
 ## Usage
 
-FSFS
+For a Module Challenge
 
 ## Contributions
 
@@ -28,15 +28,15 @@ undefined
 
 ## Testing
 
-DSGFASD
+test away
 
 ## Questions 
 
-[GitHub](https://github.com/SDFGS)
-[Email](SDFFDF)
+[GitHub](https://github.com/mlofaso)
+[Email](mlofaso87@gmail.com)
 
 ## License 
 
-  Apace has been chosen
+  MIT has been chosen
   
 

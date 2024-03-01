@@ -34,7 +34,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "What are the instruction for testing?",
+    message: "What are the instructions for testing?",
     name: "testing",
   },
   {
