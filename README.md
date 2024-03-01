@@ -1,7 +1,8 @@
 # Marty's README
+
 ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Description 
+## Description
 
 generating a README
 
@@ -16,8 +17,6 @@ generating a README
 
 ## Installation
 
-
-
 ## Usage
 
 For a Module Challenge
@@ -30,13 +29,11 @@ undefined
 
 test away
 
-## Questions 
+## Questions
 
 [GitHub](https://github.com/mlofaso)
 [Email](mlofaso87@gmail.com)
 
-## License 
+## License
 
-  MIT has been chosen
-  
-
+MIT has been chosen
