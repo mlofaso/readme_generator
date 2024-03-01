@@ -38,6 +38,21 @@ const questions = [
     message: "What are the instruction for testing?",
     name: "testing instructions",
   },
+  {
+    type: "input",
+    message: "What is your GitHub username?",
+    name: "github username",
+  },
+  {
+    type: "input",
+    message: "What is your email address?",
+    name: "email address",
+  },
+  {
+    type: "input",
+    message: "Please choose a license",
+    name: "",
+  },
 ];
 
 // TODO: Create a function to write README file
