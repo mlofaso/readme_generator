@@ -1,10 +1,9 @@
 # Marty's README
-
 ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Description
+## Description 
 
-generating a README
+README Generator
 
 ## Table of Contents
 
@@ -17,9 +16,13 @@ generating a README
 
 ## Installation
 
+Inquirer
+
 ## Usage
 
-For a Module Challenge
+to generate READMEs
+
+![screenshot](assets/images/Screenshot.png)
 
 ## Contributions
 
@@ -27,13 +30,15 @@ undefined
 
 ## Testing
 
-test away
+open the terminal and type node index
 
-## Questions
+## Questions 
 
 [GitHub](https://github.com/mlofaso)
 [Email](mlofaso87@gmail.com)
 
-## License
+## License 
 
-MIT has been chosen
+  MIT has been chosen
+  
+

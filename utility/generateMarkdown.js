@@ -54,6 +54,8 @@ ${data.installations}
 
 ${data.usage}
 
+![screenshot](assets/images/Screenshot.png)
+
 ## Contributions
 
 ${data.contributions}
